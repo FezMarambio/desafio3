@@ -47,7 +47,7 @@ small, .text_small {font-size: 0.75rem;}
 header {
     width: auto;
     height: 727px;
-    background-image: url(/assets/img/bg-header-owl.jpg);
+    background-image: url(../assets/img/bg-header-owl.jpg);
     background-size: cover;
 }
 
